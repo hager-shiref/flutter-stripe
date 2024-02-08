@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_web/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_js/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_js/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_js/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_checkout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_checkout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_checkout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_android/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_android/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
